@@ -6,5 +6,9 @@
 ?>
 <html>
 <head></head>
-<body>hoi</body>
+<body>hoi
+
+IK BEN HIER AAN HET TYPEN!
+
+</body>
 </html>
